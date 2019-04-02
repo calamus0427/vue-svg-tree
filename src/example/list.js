@@ -16,7 +16,7 @@ var listData = [
   {id: 114, name: 'Calamus14', des:'www.calamus.xyz',color:'#aaa',content:'你可以选择爱我或者不爱我，而我只能选择爱你或者更爱你',value: 123, fatherId: 108,tlevel:0},
   {id: 116, name: 'Calamus15', des:'www.calamus.xyz',color:'#aaa',content:'你可以选择爱我或者不爱我，而我只能选择爱你或者更爱你',value: 123, fatherId: 108,tlevel:0},
   {id: 117, name: 'Calamus16', des:'www.calamus.xyz',color:'#aaa',content:'你可以选择爱我或者不爱我，而我只能选择爱你或者更爱你',value: 123, fatherId: 108,tlevel:0},
-];
+]
 listData.forEach(function (v) {
   if (!v.delay) {
       v.delay = 200 * Math.random();
