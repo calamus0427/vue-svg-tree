@@ -5,7 +5,7 @@
  [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://www.calamus.xyz)
 
 ### [截图](http://calamus.wiki/vue-svg-tree/example/index.html)
-<image alt="截图" src="https://cdn.calamus.xyz/svgTree.png" style="width:400px"/>
+<img alt="截图" src="https://cdn.calamus.xyz/svgTree.png" style="width:400px"/>
 
 ### [应用](http://calamus.wiki/vue-svg-tree/example/index.html)
 ```bash
